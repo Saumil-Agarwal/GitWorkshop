@@ -1,0 +1,1 @@
+Merging a file from a new branch and trying a commit message
